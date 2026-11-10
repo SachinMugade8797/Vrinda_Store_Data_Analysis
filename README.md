@@ -116,6 +116,11 @@ The dataset contains e-commerce sales transaction information including:
 
 ---
 
+<img width="1522" height="813" alt="image" src="https://github.com/user-attachments/assets/3bbc60e8-1927-4a6f-86b3-f4cd2ac04619" />
+
+<img width="447" height="221" alt="image" src="https://github.com/user-attachments/assets/1ffd0398-98b1-44e2-9e72-76ed037a08f2" />
+
+
 ## 👨‍💻 Author
 
 **Sachin Mugade**  
